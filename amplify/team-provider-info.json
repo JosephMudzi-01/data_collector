@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-datacollector-dev-76b6e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423422618:role/amplify-datacollector-dev-76b6e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423422618:role/amplify-datacollector-dev-76b6e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-datacollector-dev-76b6e-deployment",
+      "UnauthRoleName": "amplify-datacollector-dev-76b6e-unauthRole",
+      "StackName": "amplify-datacollector-dev-76b6e",
+      "StackId": "arn:aws:cloudformation:us-east-1:637423422618:stack/amplify-datacollector-dev-76b6e/81edf1f0-9bb7-11ef-9c89-125f9688ba93",
+      "AmplifyAppId": "d11q2z0eq727x0"
+    },
+    "categories": {
+      "api": {
+        "datacollector": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+projects:
+  datacollector:
+    schemaPath: graphql/schema.json
+    includes:
+      - /graphql/**/*.js
+    excludes:
+      - ./amplify/**
+      - /API.ts
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: /graphql
+        maxDepth: 2
+extensions:
+  amplify:
+    version: 3
